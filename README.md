@@ -1,1 +1,3 @@
 # MYSQL
+
+show database
